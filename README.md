@@ -1,2 +1,2 @@
-# Rep1
-First repository
+# Public  
+Public repository
